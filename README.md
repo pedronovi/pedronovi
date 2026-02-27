@@ -1,6 +1,6 @@
 ## Olá!👋
-- 🔭 Atualmente cursando Ciência da Computação no Centro Universitário Fundação Santo André
-- 🌱 Em paralelo à faculdade estou completando o curso: C# primeiros passos: Lógica de Programação e Algoritmos pela Udemy
+- 🔭 Atualmente cursando Ciência da Computação no Centro Universitário Fundação Santo André.
+- 🌱 Em paralelo à faculdade, estou completando o curso C# Primeiros Passos: Lógica de Programação e Algoritmos, pela Udemy.
 - 📫 Contate-me via email: pedronoviwork@gmail.com
 
 <div> 
