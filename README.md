@@ -1,6 +1,6 @@
 ## Olá!👋
 - 🔭 Atualmente cursando Ciência da Computação no Centro Universitário Fundação Santo André.
-- 🌱 Em paralelo à faculdade, estou completando o curso C# Primeiros Passos: Lógica de Programação e Algoritmos, pela Udemy.
+- 🌱 Em paralelo à faculdade, estou completando o curso Curso mais didático e completo de Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB e muito mais, pela Udemy.
 - 📫 Contate-me via email: pedronoviwork@gmail.com
 
 <div> 
