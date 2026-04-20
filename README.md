@@ -1,6 +1,6 @@
 ## Olá!👋
 - 🔭 Atualmente cursando Ciência da Computação no Centro Universitário Fundação Santo André.
-- 🌱 Em paralelo à faculdade, estou completando o curso Curso mais didático e completo de Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB e muito mais, pela Udemy.
+- 🌱 Em paralelo à faculdade, estou realizando um curso completo de Java e Programação Orientada a Objetos pela Udemy, abordando conceitos como POO, banco de dados e desenvolvimento backend.
 - 📫 Contate-me via email: pedronoviwork@gmail.com
 
 <div> 
