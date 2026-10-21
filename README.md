@@ -1,7 +1,7 @@
 ## Olá!👋
 - 🔭 Atualmente cursando Ciência da Computação no Centro Universitário Fundação Santo André.
 - 🌱 Em paralelo à faculdade, estou realizando um curso completo de Java e Programação Orientada a Objetos pela Udemy, abordando conceitos como POO, banco de dados e desenvolvimento backend.
-- 📫 Contate-me via email: pedronoviwork@gmail.com
+- 📫 Contate-me via email: pedronovidamo@gmail.com
 
 <div> 
   <a href="https://www.linkedin.com/in/pedro-novi-3528963a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
